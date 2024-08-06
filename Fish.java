@@ -9,4 +9,7 @@ public class Fish extends Pet {
                 + currentDepth + " feet");
         return currentDepth;
     }
+    public String say(String something) {
+        return "fish do not talk";
+} 
 }

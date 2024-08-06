@@ -4,5 +4,6 @@ public class FishMaster {
         myFish.dive(2);
         myFish.dive(3);
         myFish.sleep();
+        myFish.say("Hi");
     }
 }
